@@ -2,4 +2,4 @@
 
 $fruits = ["orange", "apple", "banana", "mango"];
 
-echo count($fruits);
+echo count($fruits); // 4

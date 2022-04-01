@@ -10,4 +10,4 @@ if (in_array($search, $colors)) {
   echo "found";
 } else {
   echo "not found";
-}
+} // found

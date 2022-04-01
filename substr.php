@@ -1,5 +1,5 @@
 <?php
 
-$text = "abcdefg";
+$text = "bacdefg";
 
-echo substr($text, 1, 3);
+echo substr($text, 1, 3); // bcd

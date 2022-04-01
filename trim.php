@@ -2,6 +2,6 @@
 
 $text = " Hello ";
 
-echo strlen($text);
+echo strlen($text); // 7
 echo "<br>";
-echo strlen(trim($text));
+echo strlen(trim($text)); // 5

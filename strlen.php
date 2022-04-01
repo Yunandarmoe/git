@@ -2,4 +2,4 @@
 
 $text = "abcd";
 
-echo strlen($text);
+echo strlen($text); // 4

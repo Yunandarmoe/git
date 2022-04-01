@@ -21,7 +21,7 @@ switch ($month) {
 }
 
 echo "$day $month, $year";
-echo "<br>";
+echo "<br>"; // 20 March, 2022
 
 // implode --> array to string
 
@@ -29,4 +29,4 @@ $user = ["Aye Aye", 23, "Yangon"];
 
 $result01 = implode(",", $user);
 
-echo $result01;
+echo $result01; // Aye Aye,23,Yangon
